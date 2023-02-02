@@ -1,0 +1,1 @@
+xcopy /Y "C:\Users\GanGss\Documents\@\JAVA\MemoCicio\StartMemo\dist" "C:\Users\GanGss\Documents\@\@APPS\MemoCicio"
